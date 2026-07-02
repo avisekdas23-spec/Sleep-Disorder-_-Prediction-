@@ -1,0 +1,34 @@
+Feature,Importance
+Systolic_BP,0.1437108704304267
+Diastolic_BP,0.11414551557809444
+BMI Category_Overweight,0.1136896998006169
+Sleep Duration,0.08955946757364765
+Age,0.0834431820256961
+Occupation_Nurse,0.07701200065860507
+Daily Steps,0.05662889440054584
+Heart Rate,0.054775387547063875
+Physical Activity Level,0.04558504664245411
+Occupation Category_Health Professional,0.027728742010543244
+Occupation_Salesperson,0.02590074539487245
+Quality of Sleep,0.02500436361196477
+Stress Level,0.021801966421805374
+Age Group_3,0.021549350575532762
+Occupation Category_Sales,0.013680737063381392
+Age Group_2,0.01286369628615984
+Occupation_Doctor,0.012287059862484078
+Age Group_4,0.011635312209592946
+Occupation_Teacher,0.010688525419783582
+Occupation_Engineer,0.009729718271590297
+Gender_Male,0.007800641363507581
+Occupation Category_Technology,0.007210223113572501
+BMI Category_Obese,0.0035257951216396753
+Occupation_Lawyer,0.0030870157642001093
+Occupation Category_Finance,0.0022456858790356137
+Occupation Category_Legal,0.0017565624444868789
+Occupation_Sales Representative,0.0015892798356674615
+BMI Category_Normal Weight,0.001100220935774992
+Occupation_Software Engineer,0.000264293757253698
+Occupation_Manager,0.0
+Occupation_Scientist,0.0
+Occupation Category_Research,0.0
+Occupation Category_Management,0.0
